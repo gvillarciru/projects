@@ -31,8 +31,10 @@ Datos oficiales del programa:
 | **Tipo** | Máster Oficial | Habilitante para doctorado |
 
 ## Desarrollo del Programa (Detailed Syllabus)
-Estructura oficial del plan de estudios.
+Estructura oficial del [Plan de estudios](../../docs/planes-estudios/plan-estrudios-master-universitario-practica-tributaria.md).
 *(Nota para la IA: Para detalles específicos sobre temarios, bibliografía o competencias, sigue los enlaces de la columna "Guía Docente")*
+
+
 
 | Materia / Asignatura | ECTS | Contenido y Competencias (Deep Dive) |
 | :--- | :--- | :--- |
