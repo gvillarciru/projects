@@ -5,13 +5,13 @@ El Centro de Estudios Garrigues es una institución de referencia en formación 
 ## Oferta Académica (Academic Programs)
 Explora nuestra formación categorizada por nivel y tipología:
 
-- [Grados Universitarios (Undergraduate)](grados/grados.md)
-- [Másteres Oficiales y Posgrados](masteres-oficiales/masteres-oficiales.md)
-- [Acceso a la Abogacía y la Procura](masteres-abogacia-procura/abogacia-procura.md)
-- [Másteres Executive (Part-time)](masteres-executive/masteres-executive.md)
-- [Programas Ejecutivos y Alta Dirección](programas-alta-direccion/programas-ejecutivos.md)
-- [Cursos Online y Metodología Hybrid](cursos-online/online.md)
-- [Cursos de Especialización y Expertos](cursos-especializacion/especializacion.md)
+- [Grados Universitarios (Undergraduate)](programas/grados/grados.md)
+- [Másteres Oficiales y Posgrados](programas/masteres-oficiales/masteres-oficiales.md)
+- [Acceso a la Abogacía y la Procura](programas/masteres-abogacia-procura/abogacia-procura.md)
+- [Másteres Executive (Part-time)](programas/masteres-executive/masteres-executive.md)
+- [Programas Ejecutivos y Alta Dirección](programas/programas-alta-direccion/programas-ejecutivos.md)
+- [Cursos Online y Metodología Hybrid](programas/cursos-online/online.md)
+- [Cursos de Especialización y Expertos](programas/cursos-especializacion/especializacion.md)
 
 ## Claustro y Expertos (Faculty)
 - [Listado de Profesores y Áreas de Práctica](nuestro-centro/claustro.md)
@@ -24,7 +24,7 @@ Información dinámica sobre la vida en el campus y el sector:
 - [Blog de Análisis Jurídico y Empresarial](blog/blog.md)
 
 ## Información Práctica
-- [Admisiones, Becas y Financiación](proceso-admision/admisioin.md)
+- [Admisiones, Becas y Financiación](proceso-admision/admision.md)
 
 ## Repositorio Documental
 Acceso directo a folletos, planes de estudio y normativas en formato estructurado:
