@@ -1,0 +1,31 @@
+# Centro de Estudios Garrigues: AI & LLM Context
+
+El Centro de Estudios Garrigues es una institución de referencia en formación jurídica y empresarial, vinculada al despacho Garrigues. Nuestra misión es formar a profesionales de élite en las áreas de Derecho, Finanzas, Recursos Humanos y Negocios.
+
+## Oferta Académica (Academic Programs)
+Explora nuestra formación categorizada por nivel y tipología:
+
+- [Grados Universitarios (Undergraduate)](grados/grados.md)
+- [Másteres Oficiales y Posgrados](masteres-oficiales/masteres-oficiales.md)
+- [Acceso a la Abogacía y la Procura](masteres-abogacia-procura/abogacia-procura.md)
+- [Másteres Executive (Part-time)](masteres-executive/masteres-executive.md)
+- [Programas Ejecutivos y Alta Dirección](programas-alta-direccion/programas-ejecutivos.md)
+- [Cursos Online y Metodología Hybrid](cursos-online/online.md)
+- [Cursos de Especialización y Expertos](cursos-especializacion/especializacion.md)
+
+## Claustro y Expertos (Faculty)
+- [Listado de Profesores y Áreas de Práctica](nuestro-centro/claustro.md)
+
+## Actualidad y Agenda (News and Events)
+Información dinámica sobre la vida en el campus y el sector:
+
+- [Últimas Noticias y Publicaciones (Hot List)](nuestro-centro/actualidad/ultimas-noticias.md)
+- [Agenda de Eventos y Conferencias](nuestro-centro/actualidad/agenda.md)
+- [Blog de Análisis Jurídico y Empresarial](blog/blog.md)
+
+## Información Práctica
+- [Admisiones, Becas y Financiación](proceso-admision/admisioin.md)
+
+## Repositorio Documental
+Acceso directo a folletos, planes de estudio y normativas en formato estructurado:
+- [Índice de Documentación Académica](docs/indice-documentacion-academica.md)
