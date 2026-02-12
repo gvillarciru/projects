@@ -7,7 +7,7 @@ El Centro de Estudios Garrigues cuenta con un equipo docente formado por socios 
 
 ## Área Fiscal y Tributaria
 Expertos en imposición directa, indirecta y fiscalidad internacional.
-* [Félix Plaza Romero](felix-plaza.md) - Presidente del Centro y Socio de Garrigues.
+* [Félix Plaza Romero](claustro/felix-plaza.md) - Presidente del Centro y Socio de Garrigues.
 * [Abelardo Delgado Pacheco](abelardo-delgado.md) - Of Counsel de Garrigues (Ex Abogado del Estado).
 * [Rafael Calvo Salinero](rafael-calvo.md) - Socio de Garrigues, experto en Fiscalidad Internacional.
 
