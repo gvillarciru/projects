@@ -47,7 +47,8 @@ Este repositorio contiene las versiones estructuradas (Markdown) de los document
 Organizados por área de conocimiento:
 
 ### Área Tributaria
-- [Syllabus: Máster en Práctica Tributaria](../docs/planes-estudios/practica-tributaria-plan.md)
+- [Syllabus: Máster en Práctica Tributaria](../docs/planes-estudios/plan-estrudios-master-universitario-practica-tributaria.md)
+)
 - [Syllabus: Curso Executive en IVA](curso-iva-plan.md)
 
 ### Área Recursos Humanos
