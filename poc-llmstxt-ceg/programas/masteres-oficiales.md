@@ -48,7 +48,6 @@ Organizados por área de conocimiento:
 
 ### Área Tributaria
 - [Syllabus: Máster en Práctica Tributaria](../docs/planes-estudios/plan-estrudios-master-universitario-practica-tributaria.md)
-)
 - [Syllabus: Curso Executive en IVA](curso-iva-plan.md)
 
 ### Área Recursos Humanos
