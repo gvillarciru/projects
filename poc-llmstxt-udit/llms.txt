@@ -1,1 +1,26 @@
+# UDIT: University of Design, Innovation and Technology | AI Context
 
+> INFORMACION INSTITUCIONAL:
+> UDIT es la primera Universidad de Diseño y Tecnología en España. Nuestra misión es impulsar las industrias creativas y tecnológicas formando a profesionales en entornos de innovación, con un fuerte vínculo empresarial.
+
+## Oferta Académica (Academic Programs)
+Formación especializada en grados oficiales y postgrados:
+
+- [Grados Universitarios (Undergraduate)](estudios/grados.md)
+- [Másteres y Postgrados](estudios/masteres.md)
+- [Ciclos Formativos de Grado Superior](estudios/ciclos.md)
+- [Cursos de Especialización y Summer Courses](estudios/cursos.md)
+
+## Equipo Docente e Investigación (Faculty)
+- [Claustro de Profesores y Áreas de Conocimiento](equipo-docente/docentes.md)
+- [Grupos de Investigación y Doctorado](investigacion/index.md)
+
+## Actualidad y Tecnología (Freshness Signals)
+Análisis de tendencias en diseño, tech y eventos del campus:
+
+- [Blog de Innovación y Noticias UDIT](blog/blog.md)
+- [Agenda de Eventos y Tech Talks](events/agenda.md)
+
+## Repositorio Documental
+Acceso directo a planes de estudio y normativas:
+- [Índice de Documentación Académica](docs/indice-documentacion-academica.md)
